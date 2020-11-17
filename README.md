@@ -22,12 +22,12 @@ We propose a collaborative approach for finding optimal cluster configurations b
 
 ```
 @inproceedings{will2020towards,
-	title={{Towards Collaborative Optimization of Cluster Configurations for Distributed Dataflow Jobs}},
+    title={{Towards Collaborative Optimization of Cluster Configurations for Distributed Dataflow Jobs}},
     author={Will, Jonathan and Bader, Jonathan and Thamsen, Lauritz},
-	booktitle={2020 IEEE International Conference on Big Data},
-	year={2020},
-	pages={To appear},
-	organization={IEEE},
+    booktitle={2020 IEEE International Conference on Big Data},
+    year={2020},
+    pages={To appear},
+    organization={IEEE},
 }
 ```
 
