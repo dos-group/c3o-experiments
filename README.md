@@ -4,7 +4,7 @@ Here are the experiment data for the paper
 
 **Towards Collaborative Optimization of Cluster Configurations for Distributed Dataflow Jobs** [[PDF](https://arxiv.org/pdf/2011.07965)]
 
-Presented at the [BPOD workshop](https://userpages.umbc.edu/~jianwu/BPOD/) of the [IEEE Big Data 2020 conference](http://bigdataieee.org/BigData2020/) [[Presentation Video]](https://www.youtube.com/watch?v=-3cI-8i02Ps).
+Presented at the [BPOD workshop](https://userpages.umbc.edu/~jianwu/BPOD/) of the [IEEE Big Data 2020 conference](http://bigdataieee.org/BigData2020/) [[Presentation Video](https://www.youtube.com/watch?v=-3cI-8i02Ps)].
 
 The individual files contain the experiment data for each job in tsv format.
 
