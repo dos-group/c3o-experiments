@@ -28,7 +28,7 @@ We propose a collaborative approach for finding optimal cluster configurations b
     year={2020},
     publisher={IEEE},
     isbn={978-1-7281-6251-5},
-	pages={2851--2856},
+    pages={2851--2856},
 }
 ```
 
