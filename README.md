@@ -26,8 +26,9 @@ We propose a collaborative approach for finding optimal cluster configurations b
     author={Will, Jonathan and Bader, Jonathan and Thamsen, Lauritz},
     booktitle={2020 IEEE International Conference on Big Data},
     year={2020},
-    pages={To appear},
-    organization={IEEE},
+    publisher={IEEE},
+    isbn={978-1-7281-6251-5},
+	pages={2851--2856},
 }
 ```
 
